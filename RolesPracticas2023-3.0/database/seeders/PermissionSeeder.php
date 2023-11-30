@@ -93,7 +93,7 @@ class PermissionSeeder extends Seeder
             'name'=>'Crear Empresa Formulario'
         ]);
         Permission::create([
-            'name'=>'Editar Empresa Formulario '
+            'name'=>'Editar Empresa Formulario'
         ]);
         Permission::create([
             'name'=>'Eliminar Empresa Formulario'
